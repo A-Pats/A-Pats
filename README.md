@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @A-Pats
+- 👀 I’m interested in becoming a full-stack developer
+- 🌱 I’m currently learning Rust!
